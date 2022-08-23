@@ -5,7 +5,7 @@
   "keywords": ["behat", "testing", "api", "REST", "http"],
   "homepage": "https://github.com/imbo/behat-api-extension",
   "license": "MIT",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "authors": [{
     "name": "Christer Edvartsen",
     "email": "cogo@starzinger.net",
@@ -18,7 +18,7 @@
     "source": "https://github.com/imbo/behat-api-extension",
     "docs": "http://behat-api-extension.readthedocs.io/",
     "issues": "https://github.com/imbo/behat-api-extension/issues",
-    "irc": "irc://irc.freenode.net/imbo"
+    "irc": "irc://irc.freenode.net/imbo" 
   },
   "require": {
     "php": "^7.4 || ^8.0",
