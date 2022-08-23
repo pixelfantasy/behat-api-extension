@@ -1,10 +1,11 @@
 {
-  "name": "imbo/behat-api-extension",
+  "name": "pixelfantasy/behat-api-extension",
   "type": "library",
   "description": "API extension for Behat",
   "keywords": ["behat", "testing", "api", "REST", "http"],
   "homepage": "https://github.com/imbo/behat-api-extension",
   "license": "MIT",
+  "version": "3.0.2",
   "authors": [{
     "name": "Christer Edvartsen",
     "email": "cogo@starzinger.net",
