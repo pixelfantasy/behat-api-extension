@@ -1,11 +1,10 @@
 {
-  "name": "pixelfantasy/behat-api-extension",
+  "name": "imbo/behat-api-extension",
   "type": "library",
   "description": "API extension for Behat",
   "keywords": ["behat", "testing", "api", "REST", "http"],
   "homepage": "https://github.com/imbo/behat-api-extension",
   "license": "MIT",
-  "version": "3.0.3",
   "authors": [{
     "name": "Christer Edvartsen",
     "email": "cogo@starzinger.net",
@@ -18,14 +17,14 @@
     "source": "https://github.com/imbo/behat-api-extension",
     "docs": "http://behat-api-extension.readthedocs.io/",
     "issues": "https://github.com/imbo/behat-api-extension/issues",
-    "irc": "irc://irc.freenode.net/imbo" 
+    "irc": "irc://irc.freenode.net/imbo"
   },
   "require": {
     "php": "^7.4 || ^8.0",
     "ext-json": "*",
     "beberlei/assert": "^3.3",
     "behat/behat": "^3.8",
-    "firebase/php-jwt": "^5.2 || ^6.0",
+    "firebase/php-jwt": "^5.2 || ^6.3",
     "guzzlehttp/guzzle": "^7.3"
   },
   "require-dev": {
